@@ -1,4 +1,4 @@
-namespace directory3.directory2
+namespace directory3.directory4
 
 public class ALongClass
 {
