@@ -1,9 +1,10 @@
 namespace directory3.directory4
-
-public class ALongClass
 {
-    public void DoNewWork()
+    public class ALongClass
     {
-    }
+        public void DoNewWork()
+        {
+        }
 
+    }
 }
